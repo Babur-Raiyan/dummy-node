@@ -1,0 +1,3 @@
+This is result: text txt
+hamara me kabhi nahi karta hu, this is the second text fileThis part has been appended later.
+This part has been appended later.
